@@ -1,0 +1,74 @@
+img{
+
+    margin: 0 auto;
+    max-width:100%;
+    height:auto;
+    display:block;
+}
+.outer-image{
+
+    width:100%;
+    background-image:url(https://sun9-28.userapi.com/impf/c622723/v622723407/4a364/sSGYR_B8HQM.jpg?size=381x381&quality=96&sign=83e435692a62c4fc3490f6c6caaf0f56&c_uniq_tag=Mck2lBCyphLlYWXG-wjcPSN9S4-C7lzuaGJuvMVy_Go&type=album);
+    background-size: 100%;
+    background-position: center;
+    margin:15px 0;
+    filter: grayscale(100%);
+
+}
+
+.title{
+    text-align:center;
+    padding: 0 0 0 20px;
+    margin-top:0;
+}
+
+h1{
+    margin-bottom:0;
+}
+
+.label{
+    margin:auto;
+    display:block;
+    background-color:#EEEEEE;
+}
+
+html{
+    font-size:16px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: 0 auto;
+    max-width:80vh;
+    background-color:#EEEEEE;
+    border-radius:25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.img-caption{
+    margin: 0 auto;
+}
+.bold{
+    font-weight: 650;
+}
+
+.quote{
+    font-style:italic;
+    text-align:right;
+    margin-right: 2rem;
+}
+
+#img-div{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div h3{
+    text-align: center;
+}
+.tribute-info{
+    margin-left: 2rem;
+}
